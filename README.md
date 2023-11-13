@@ -1,2 +1,2 @@
 # Calculadora-Rankeada
-projeto DIO calculadora de partidas rankeadas
+projeto DIO calculadora de partidas rankeadas com javascript
